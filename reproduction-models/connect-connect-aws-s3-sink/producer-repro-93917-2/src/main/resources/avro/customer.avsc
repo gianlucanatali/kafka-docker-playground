@@ -327,6 +327,15 @@
                     "null",
                     "long"
                 ]
+            },
+            {
+                "default": null,
+                "doc": "my added field",
+                "name": "tracker_name",
+                "type": [
+                    "null",
+                    "string"
+                ]
             }
         ],
         "name": "client_background_music_option",
@@ -657,6 +666,15 @@
                 "default": null,
                 "doc": "this is a doc",
                 "name": "trigger_type",
+                "type": [
+                    "null",
+                    "string"
+                ]
+            },
+            {
+                "default": null,
+                "doc": "my added field",
+                "name": "tracker_name",
                 "type": [
                     "null",
                     "string"
